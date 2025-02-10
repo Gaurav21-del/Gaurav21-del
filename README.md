@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Gaurav Ugalmugale</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Analysis" width="400" src="  ">
+<img align="right" alt="Analysis" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBnZGltcmt5MTZsZWR2MXg3NWZ2bjBsd3JsNzdic3k2ejBhM3I3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav21-del&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav21-del" /> </p>
 
